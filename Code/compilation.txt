@@ -1,0 +1,1 @@
+"C:\Program Files\CodeBlocks\MinGW\bin\x86_64-w64-mingw32-g++.exe" GTA_C++.cpp -o gta_rub4.exe -O2 -static -mwindows -lopengl32 -lgdi32 -luser32
