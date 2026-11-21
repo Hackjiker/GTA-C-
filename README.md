@@ -17,13 +17,4 @@ A 3D open-world action game inspired by **Grand Theft Auto**, written in **C++**
 ## Build
 ```bash
 "C:\Program Files\CodeBlocks\MinGW\bin\x86_64-w64-mingw32-g++.exe" GTA_C++.cpp -o gta_rub4.exe -O2 -static -mwindows -lopengl32 -lgdi32 -luser32
-Controls
-WASD — Move / Drive / Fly
-
-Mouse — Camera | LMB — Fire | RMB — Aim / Zoom | 1–5 / Scroll — Select weapon
-
-F — Enter/exit vehicle or climb ladder | R — Call car | E — Heal / Rob bank
-
-Shift — Sprint (or descend in helicopter) | Space — Jump / Handbrake (or ascend in helicopter)
-
-Esc — Quit
+```
